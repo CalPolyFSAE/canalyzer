@@ -1,0 +1,15 @@
+*.launch
+**/Debug
+**/debug
+**/Release
+**/CMakeFiles
+**/build
+
+*.swp
+*.vscode
+CMakeCache.txt
+cmake_install.cmake
+**/debug
+
+.sconsign.dblite
+*.bak
